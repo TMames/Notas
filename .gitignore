@@ -1,0 +1,14 @@
+# Obsidian
+.obsidian/workspace
+.obsidian/workspace.json
+.obsidian/cache
+.obsidian/plugins/*/data.json
+
+# OneDrive/Windows
+desktop.ini
+Thumbs.db
+~$*
+*.tmp
+
+# Misceláneo
+.DS_Store
